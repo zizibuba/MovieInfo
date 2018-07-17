@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MovieInfo</string>
+    <string name="comedy">Comedy \u0020</string>
+    <string name="drama">Drama \u0020</string>
+    <string name="romance">Romance \u0020</string>
+    <string name="action">Action \u0020</string>
+    <string name="animated">Animated \u0020</string>
+    <string name="documentary">Documentary \u0020</string>
+    <string name="family">Family \u0020</string>
+    <string name="fantasy">Fantasy \u0020</string>
+    <string name="history">History \u0020</string>
+    <string name="war">War \u0020</string>
+    <string name="crime">Crime \u0020</string>
+    <string name="music">Music \u0020</string>
+    <string name="mystery">Mystery \u0020</string>
+    <string name="scifi">Sci fi \u0020</string>
+    <string name="horror">Horror \u0020</string>
+    <string name="tvmovie">TV movie \u0020</string>
+    <string name="thriller">Thriller \u0020</string>
+    <string name="western">Western \u0020</string>
+    <string name="adventure">Adventure \u0020</string>
+    <string name="error_message">Something went wrong…Please try later!</string>
+    <string name="crew">Crew:</string>
+
+
+</resources>
